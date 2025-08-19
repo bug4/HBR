@@ -361,13 +361,13 @@ function App() {
       {/* Twitter Button - Top Right */}
       <div className="fixed top-4 right-4 z-20">
         <a 
-          href="https://twitter.com/yourusername" 
+          href="https://x.com/heavenbackrooms" 
           target="_blank" 
           rel="noopener noreferrer"
           className="flex items-center space-x-2 bg-gray-900/80 border border-yellow-600/50 rounded-lg px-4 py-2 text-yellow-400 hover:bg-yellow-900/30 hover:border-yellow-400 hover:shadow-lg hover:shadow-yellow-600/30 transition-all duration-300 backdrop-blur-sm"
         >
           <Twitter className="w-4 h-4" />
-          <span className="text-sm">@heavengray</span>
+          <span className="text-sm">@heavenbackrooms</span>
         </a>
       </div>
 
